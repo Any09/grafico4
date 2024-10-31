@@ -32,7 +32,7 @@ function processarDados(dados) {
             font: {
                 color: getCSS('--primary-color'),
             textinfo: 'label+percent'
-        }
+        },
     ]
 
     const layout = {
