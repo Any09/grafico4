@@ -20,8 +20,8 @@ function processarDados(dados) {
         acc[redesSociais] = (acc[redesSociais] || 0) + 1
         return acc
     }, {})
-    const valores = ['5073774','3981191','3738469','1499595','1005088','2020288','2365562','1247269','489800','2630114'];
-    const labels = ['Silva','Santos','Oliveira','Martins','Nascimento','Lima','Ferreira','Lopes','Medeiros','Souza'];
+    const valores = ['5073774','3981191','3738469','1499595','1005088','2020288','2365562','1247269','489800','2630114']
+    const labels = ['Silva','Santos','Oliveira','Martins','Nascimento','Lima','Ferreira','Lopes','Medeiros','Souza']
 
     const data = [
         {
