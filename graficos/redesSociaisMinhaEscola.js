@@ -54,7 +54,7 @@ function processarDados(dados) {
     }
 
     criarGrafico(data, layout)
-    incluirTexto(`Como no mundo, a amostra de pessoas entrevistadas por mim, demonstra um apreço pelo <span>Instagram</span> em relação a outras redes.`)
+    incluirTexto(`No Brasil o sobrenome <span>Silva</span> é o mais comum, conforme as pesquisas feitas por nós.`)
 }
 
 redesSociaisFavoritasMinhaEscola()
