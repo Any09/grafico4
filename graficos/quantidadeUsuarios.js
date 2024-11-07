@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Nomes mais comuns no Brasil:',
+            text: 'Nomes mais comuns no Brasil de acordo com IBGE 2010:',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
