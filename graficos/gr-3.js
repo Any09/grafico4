@@ -33,7 +33,7 @@ async function quantidadeUsuariosPorRede() {
         xaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'nomes mais comuns no Brasil em 2010',
+                text: 'Nomes mais comuns no Brasil atualmente',
                 font: {
                     color: getCSS('--secondary-color')
                 }
