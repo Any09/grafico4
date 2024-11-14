@@ -54,7 +54,7 @@ function processarDados(dados) {
     }
 
     criarGrafico(data, layout)
-    incluirTexto(`No Brasil o sobrenome <span>Silva</span> é o mais comum, conforme as pesquisas feitas por nós.`)
+    incluirTexto(`No Brasil os <span>cães</span> são considerados os pets mais comuns.`)
 }
 
 redesSociaisFavoritasMinhaEscola()
