@@ -21,7 +21,7 @@ function processarDados(dados) {
         return acc
     }, {})
     const valores = ['44.6','27.6','12.3','6.4','2.5','1.9']
-    const labels = ['Cães','Gatos','Peixes','Coelhos e Passaros','Répteis','Roedores'f]
+    const labels = ['Cães','Gatos','Peixes','Coelhos e Passaros','Répteis','Roedores']
 
     const data = [
         {
